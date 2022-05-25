@@ -1,0 +1,26 @@
+.language-details {
+  display: flex;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 8px 8px #e8e8e8;
+  width: 80%;
+}
+
+.img-language {
+  height: 300px;
+}
+
+.language-heading {
+  font-family: 'Roboto';
+  font-size: 25px;
+  color: #4656a1;
+  margin-top: 20px;
+}
+
+.language-paragraph {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #64748b;
+  margin-left: 20px;
+  margin-right: 20px;
+}

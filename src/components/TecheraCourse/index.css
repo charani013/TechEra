@@ -1,0 +1,23 @@
+.list-of-language {
+  margin-right: 30px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  width: 20%;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.image-language {
+  height: 50px;
+}
+.tech-era-language-row {
+  display: flex;
+
+  align-items: center;
+}
+
+.language-heading {
+  font-family: 'Roboto';
+  font-size: 20px;
+  margin-left: 20px;
+}
